@@ -7,20 +7,20 @@ It helps analyze sales, orders, customer demographics, and sales channels using 
 
 ## Tools Used
 
->> Microsoft Excel
->> Pivot Tables
->> Pivot Charts
+>> Microsoft Excel,
+>> Pivot Tables,
+>> Pivot Charts,
 >> Slicers
 
 ## Dashboard Insights
 
 The dashboard shows:
 
->> "Orders vs Sales" by month
->> "Men vs Women" sales comparison
->> "Order Status" (Delivered, Returned, Cancelled, Refunded)
->> "Top 10 States by Sales"
->> "Orders by Age & Gender"
+>> "Orders vs Sales" by month,
+>> "Men vs Women" sales comparison,
+>> "Order Status" (Delivered, Returned, Cancelled, Refunded),
+>> "Top 10 States by Sales",
+>> "Orders by Age & Gender",
 >> "Channel-wise Sales" (Amazon, Flipkart, Myntra, Ajio, etc.)
 
 ## Filters Available
