@@ -7,27 +7,27 @@ It helps analyze sales, orders, customer demographics, and sales channels using 
 
 ## Tools Used
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Slicers
+>> Microsoft Excel
+>> Pivot Tables
+>> Pivot Charts
+>> Slicers
 
 ## Dashboard Insights
 
 The dashboard shows:
 
-* **Orders vs Sales** by month
-* **Men vs Women** sales comparison
-* **Order Status** (Delivered, Returned, Cancelled, Refunded)
-* **Top 10 States by Sales**
-* **Orders by Age & Gender**
-* **Channel-wise Sales** (Amazon, Flipkart, Myntra, Ajio, etc.)
+>> "Orders vs Sales" by month
+>> "Men vs Women" sales comparison
+>> "Order Status" (Delivered, Returned, Cancelled, Refunded)
+>> "Top 10 States by Sales"
+>> "Orders by Age & Gender"
+>> "Channel-wise Sales" (Amazon, Flipkart, Myntra, Ajio, etc.)
 
 ## Filters Available
 
-* Month
-* Sales Channel
-* Product Category
+> Month
+> Sales Channel
+> Product Category
 
 These filters make the dashboard **interactive and easy to analyze**.
 
@@ -38,7 +38,3 @@ These filters make the dashboard **interactive and easy to analyze**.
 ## Purpose
 
 The goal of this project is to practice **data analysis and dashboard creation in Excel** to understand business performance and customer trends.
-
----
-
-⭐ If you like this project, feel free to star the repository.
